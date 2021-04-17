@@ -1,0 +1,24 @@
+...propongo unas tareas para los quehaceres desde aquí al lunes:
+Buscar imágenes y textos para agregar al sitio (medios de prensa o sitios afines)
+
+Hacer un mockup (en papel)
+
+Definir paleta de colores
+Definir tipografía
+Leer la documentación bootstrap y css
+buscar logo
+
+17:25
+https://materializecss.com ese es parecido también
+
+Al
+Alex Valentin Martínez Bórquez
+17:25
+https://material.angular.io
+
+Ca
+Camilo Sebastian Pacheco Giancaspero
+17:26
+https://tailwindcss.com/ tamb es parecido pero es mas flexible para poder combinarlo con css
+
+https://www.lipsum.com
